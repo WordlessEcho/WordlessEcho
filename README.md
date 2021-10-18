@@ -2,7 +2,7 @@
 Student, amateur coder & translator.
 
 ## 燕雀便签 / Brambling Note
-[Frontend](https://github.com/WordlessEcho/brambling-note-fe)
+[Frontend](https://github.com/WordlessEcho/Brambling-Note-FE)
 ![brambling-note-screenshot](https://user-images.githubusercontent.com/12007025/122680574-6dee8000-d222-11eb-9b0c-e328813774f5.PNG)
 
 ## KDE中国翻译团队 / KDE (China team) Translations
