@@ -8,3 +8,6 @@ Student, amateur coder & translator.
 ## KDE中国翻译团队 / KDE (China team) Translations
 [Repository (AOSC team, OSPP project)](https://github.com/AOSC-Dev/OSPP2021-L10n)
 ![image](https://user-images.githubusercontent.com/12007025/137736313-7786235d-fa67-47e0-8baa-7d19473ac58a.png)
+
+## 文章 / Articles
+- [Android 7+ 添加全字重 Noto Sans CJK - 知乎](https://zhuanlan.zhihu.com/p/25027320)
