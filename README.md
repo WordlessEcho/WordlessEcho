@@ -11,3 +11,4 @@ Student, amateur coder & translator.
 
 ## 文章 / Articles
 - [Android 7+ 添加全字重 Noto Sans CJK - 知乎](https://zhuanlan.zhihu.com/p/25027320)
+- [Dynamic Display Dividers on Scrollable Dialog of Material UI](https://echo.moe/dynamic-dividers-on-dialog/)
