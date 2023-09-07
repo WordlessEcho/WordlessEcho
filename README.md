@@ -7,8 +7,7 @@ Student, amateur coder & translator.
 ![app preview](https://github.com/WordlessEcho/Variable-Font-Test/raw/main/doc/pics/variable-font-test-en.gif)
 
 ## 燕雀便签 / Brambling Note
-[Backend](https://github.com/Brambling-Apps/Brambling-Note-BE-Java)
-[Frontend](https://github.com/WordlessEcho/Brambling-Note-FE)
+[Backend](https://github.com/Brambling-Apps/Brambling-Note-BE-Java) / [Frontend](https://github.com/WordlessEcho/Brambling-Note-FE)
 
 ![brambling note screenshot](https://user-images.githubusercontent.com/12007025/122680574-6dee8000-d222-11eb-9b0c-e328813774f5.PNG)
 
